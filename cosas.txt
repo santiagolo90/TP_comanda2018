@@ -1,0 +1,38 @@
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet"/>
+
+<h3>Default, no class</h3>
+<kbd>default</kbd>
+<hr />
+<h3>Only background</h3>
+<kbd class="bg-muted">bg-muted</kbd>
+<kbd class="bg-primary">bg-primary</kbd>
+<kbd class="bg-success">bg-success</kbd>
+<kbd class="bg-info">bg-info</kbd>
+<kbd class="bg-warning">bg-warning</kbd>
+<kbd class="bg-danger">bg-danger</kbd>
+<hr />
+<h3>Only text</h3>
+<kbd class="text-muted">text-muted</kbd>
+<kbd class="text-primary">text-primary</kbd>
+<kbd class="text-success">text-success</kbd>
+<kbd class="text-info">text-info</kbd>
+<kbd class="text-warning">text-warning</kbd>
+<kbd class="text-danger">text-danger</kbd>
+<hr />
+<h3>All (with label)</h3>
+<kbd class="label-default">Default</kbd>
+<kbd class="label-primary">Primary</kbd>
+<kbd class="label-success">Success</kbd>
+<kbd class="label-info">Info</kbd>
+<kbd class="label-warning">Warning</kbd>
+<kbd class="label-danger">Danger</kbd>
+<hr /><h3>All (with alert)</h3>
+<kbd class="alert-muted">alert-muted</kbd>
+<kbd class="alert-primary">alert-primary</kbd>
+<kbd class="alert-success">alert-success</kbd>
+<kbd class="alert-info">alert-info</kbd>
+<kbd class="alert-warning">alert-warning</kbd>
+<kbd class="alert-danger">alert-danger</kbd>
+
+para modal confirm
+npm install --save @types/bootbox
